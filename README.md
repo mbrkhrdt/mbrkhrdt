@@ -1,6 +1,9 @@
 ### Hi there 👋
 I'm Michael, a developer from Brooklyn, NY. I make iOS Apps in Swift, and most of my other projects involve JavaScript of some sort.
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+
 ![Michael's Stats](https://github-readme-stats.vercel.app/api?username=michaelburkhardt&show_icons=true&count_private=true)
 
 [![Twitter followers](https://img.shields.io/twitter/follow/tme_michael?label=Followers&style=social)](https://twitter.com/tme_michael) [![GitHub followers](https://img.shields.io/github/followers/michaelburkhardt?label=Followers&style=social)](https://github.com/michaelburkhardt/)
