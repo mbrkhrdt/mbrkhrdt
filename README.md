@@ -1,11 +1,12 @@
 ### Hi there 👋
+I'm Michael, a developer from Brooklyn, NY.
 
 ![Michael's Stats](https://github-readme-stats.vercel.app/api?username=michaelburkhardt&show_icons=true&count_private=true)
 
-![Michael's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelburkhardt&layout=compact)
-
 <!--
 **michaelburkhardt/michaelburkhardt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Michael's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelburkhardt&layout=compact)
 
 Here are some ideas to get you started:
 
