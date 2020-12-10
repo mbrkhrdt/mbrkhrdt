@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Michael, a developer from Brooklyn, NY. I make iOS Apps in Swift, and most of my other projects involve JavaScript of some sort.
+I'm Michael, a developer from Brooklyn, NY. I make iOS Apps in Swift, and most of my other projects involve JavaScript of some sort. While my primary programming languages are Swift and JavaScript, I also have experience with C# and Java.
 
 ![Michael's Stats](https://github-readme-stats.vercel.app/api?username=michaelburkhardt&show_icons=true&count_private=true&theme=dark)
 
