@@ -1,5 +1,11 @@
 ### Hi there 👋
-I'm Michael, a developer from Brooklyn, NY. I make iOS Apps in Swift, and most of my other projects involve Node.js of some sort. You can contact me on [Twitter](https://twitter.com/tme_michael), if you need to.
+I'm Michael, a developer from Brooklyn, NY. I make iOS Apps with SwiftUI, and I also have experience with Python and JavaScript. You can contact me on [Twitter](https://twitter.com/tme_michael), if you need to.
+
+#### Projects I'm working on:
+- [Talon for iOS](https://peroxaan.com/Talon)
+- [Ruby for iOS](https://peroxaan.com/Ruby)
+- [Evergreen for iOS](https://peroxaan.com/Evergreen)
+- [Timeout Bot (Discord)](https://timeoutbot.xyz)
 
 ![Michael's Stats](https://github-readme-stats.vercel.app/api?username=michaelburkhardt&show_icons=true&count_private=true&theme=dark)
 
@@ -7,9 +13,6 @@ I'm Michael, a developer from Brooklyn, NY. I make iOS Apps in Swift, and most o
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelburkhardt" alt="michaelburkhardt" /> </p>
 
 <!--
-**michaelburkhardt/michaelburkhardt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Michael's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelburkhardt&layout=compact)
 
 #### Projects I'm working on:
 - [Talon for iOS](https://peroxaan.com/Talon)
