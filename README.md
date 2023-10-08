@@ -9,7 +9,7 @@ I'm Michael, a developer from Brooklyn, NY. I make iOS Apps with SwiftUI, and I 
 
 ![Michael's Stats](https://github-readme-stats.vercel.app/api?username=mbrkhrdt&show_icons=true&count_private=true&theme=dark)
 
-[![GitHub followers](https://img.shields.io/github/followers/michaelburkhardt?label=Followers&style=social)](https://github.com/mbrkhrdt/)
+[![GitHub followers](https://img.shields.io/github/followers/mbrkhrdt?label=Followers&style=social)](https://github.com/mbrkhrdt/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelburkhardt" alt="mbrkhrdt" /> </p>
 
 <!--
