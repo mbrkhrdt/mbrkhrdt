@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Michael, a developer from Brooklyn, NY. I make iOS Apps with SwiftUI, and I also have experience with Python and JavaScript. You can contact me on [X (formerly Twitter)](https://x.com/tme_michael), if you need to.
+I'm Michael, a developer from Brooklyn, NY. I make iOS Apps with SwiftUI, and I also have experience with Python and JavaScript. You can contact me on [X (formerly Twitter)](https://x.com/mbrkhrdt), if you need to.
 
 #### Projects I'm working on:
 - [Talon for iOS](https://peroxaan.com/Talon)
@@ -7,10 +7,10 @@ I'm Michael, a developer from Brooklyn, NY. I make iOS Apps with SwiftUI, and I 
 - [Evergreen for iOS](https://peroxaan.com/Evergreen)
 - [Timeout Bot (Discord)](https://timeoutbot.xyz)
 
-![Michael's Stats](https://github-readme-stats.vercel.app/api?username=michaelburkhardt&show_icons=true&count_private=true&theme=dark)
+![Michael's Stats](https://github-readme-stats.vercel.app/api?username=mbrkhrdt&show_icons=true&count_private=true&theme=dark)
 
-[![GitHub followers](https://img.shields.io/github/followers/michaelburkhardt?label=Followers&style=social)](https://github.com/michaelburkhardt/)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelburkhardt" alt="michaelburkhardt" /> </p>
+[![GitHub followers](https://img.shields.io/github/followers/michaelburkhardt?label=Followers&style=social)](https://github.com/mbrkhrdt/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mbrkhrdt" alt="mbrkhrdt" /> </p>
 
 <!--
 
